@@ -307,6 +307,7 @@ def chips_from_filters(flt: dict):
 # -------------------------
 app = Dash(__name__, external_stylesheets=[dbc.themes.FLATLY])
 app.title = "Portfolio Look-Through"
+server = app.server
 
 app.layout = dbc.Container(
     fluid=True,
