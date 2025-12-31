@@ -2,5 +2,8 @@
 __pycache__/
 *.pyc
 .DS_Store
-data/
+data/*
+!data/security_master/
+!data/security_master/security_master.parquet
+!data/security_master/meta.json
 .streamlit/secrets.toml

@@ -5,9 +5,9 @@ This app computes look-through exposures for a portfolio of stocks + ETFs.
 ## What you need
 
 1) Nasdaq Stock Screener CSV (Security Master)
-- Download CSV from Nasdaq Stock Screener
+- A default security master is bundled in the repo under `data/security_master/security_master.parquet`
+- Optional: download a fresh Nasdaq Stock Screener CSV and upload it in the app to refresh
 - Required columns: Symbol, Name, Country, Sector, Industry
-- Upload it in the app and click "Refresh security master"
 - Stored locally under `data/security_master/`
 
 2) Portfolio CSV

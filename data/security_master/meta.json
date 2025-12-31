@@ -1,0 +1,19 @@
+{
+  "uploaded_at": "2025-12-28T00:59:47.204070",
+  "raw_copy": "data/security_master/raw_20251228_005947_nasdaq_screener_1766890551004.csv",
+  "row_count": 6989,
+  "columns": [
+    "Symbol",
+    "Name",
+    "Last Sale",
+    "Market Cap",
+    "Country",
+    "IPO Year",
+    "Volume",
+    "Sector",
+    "Industry",
+    "symbol_norm",
+    "last_sale_num",
+    "market_cap_num"
+  ]
+}
