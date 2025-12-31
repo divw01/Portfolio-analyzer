@@ -4,6 +4,8 @@ Beginner-friendly app that shows your portfolio's look-through exposures for sto
 
 ## Quick start (first time)
 
+You have two options to run this app. Either use the app fully hosted here (https://portfolio-analyzer-n23k.onrender.com), which will be slow but require no downloads, or run the app locally, as described below:
+
 1) Install Python 3.10+ from https://www.python.org/downloads/
 2) Open Terminal (macOS) or Command Prompt (Windows) in this folder.
 3) Run:
