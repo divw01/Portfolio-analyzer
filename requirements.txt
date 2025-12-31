@@ -1,5 +1,6 @@
-streamlit>=1.36
+dash>=2.17
+dash-bootstrap-components>=1.6
 pandas>=2.0
-requests>=2.31
+plotly>=5.22
 pyarrow>=14.0
-matplotlib>=3.8
+requests>=2.31
