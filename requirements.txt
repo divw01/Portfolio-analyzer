@@ -4,3 +4,4 @@ pandas>=2.0
 plotly>=5.22
 pyarrow>=14.0
 requests>=2.31
+gunicorn>=21.2
