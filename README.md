@@ -1,4 +1,4 @@
-# Portfolio Look-Through (Streamlit)
+# Portfolio Look-Through (Updated)
 
 This app computes look-through exposures for a portfolio of stocks + ETFs.
 
